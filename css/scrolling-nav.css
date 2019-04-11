@@ -1,0 +1,85 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-scrolling-nav/blob/master/LICENSE)
+ */
+header {
+  padding: 156px 0 100px;
+  font-variant-east-asian: 
+}
+
+section {
+  padding: 20px 0;
+}
+header img {
+	border: 8px solid #0992f9;
+}
+.head {
+	font-size: 25px;
+	font-family: 'saira Extra Condensed';
+}
+.head_1 { 
+	font-size: 20px;
+	color: #da7335;
+	font-family: 'saira Extra Condensed';
+	
+}
+.head_2 {
+		font-size: 22px;
+		color: #ffffff;
+		font-family: 'saira Extra Condensed';
+}
+
+.head_3 { 
+	font-size: 20px;
+	color: #004085;
+	font-family: 'saira Extra Condensed';
+	}
+
+.head_4 {
+	font-size: 18px;
+	font-family: 'saira Extra Condensed';
+}
+
+.head_77 {
+	font-size: 27px;
+	font-family:'saira Extra Condensed';
+}
+
+.head_22 {
+	font-size: 18px;
+	font-family: 'saira Extra Condensed';
+}
+
+.head_5 {
+	font-size: 18px;
+	font-family: 'saira Extra Condensed';
+}
+
+.head_6 {
+	font-size: 12px;
+}
+.year {
+	font-size: 18px;
+	font-family: 'saira Extra Condensed';
+} 
+
+.isi {
+	font-size: 18px;
+	font-family: 'saira Extra Condensed';
+} 
+
+.company {
+	font-size: 12px;
+	font-family: 'saira Extra Condensed';
+}
+
+.tittle {
+	font-size: 22px;
+	font-family: 'saira Extra Condensed';
+}
+
+.nav {
+	font-size: 17px;
+	font-family: 'saira Extra Condensed';
+}
